@@ -345,7 +345,7 @@ msgstr "Tid tilbage"
 #: lib/teslamate_web/live/settings_live/index.html.leex:250
 #: lib/teslamate_web/templates/layout/root.html.leex:46
 msgid "Dashboards"
-msgstr "Oversikter"
+msgstr "Oversigter"
 
 #, elixir-format
 #: lib/teslamate_web/live/settings_live/index.html.leex:233
